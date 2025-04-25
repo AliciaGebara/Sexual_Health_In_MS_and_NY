@@ -45,16 +45,24 @@ This repository contains...
 - Public health scientists, health policymakers, or other individuals wishing to learn more about the difference in sexual health data across states in the US.  
 
 --- 
-## Where to start 
+## **Where to start** 
 
-How can users get started with the repository 
-Where can they get help with the repository? 
+***How can users get started with the repository?***
+1. The Data folder to view both the raw data and the `MSandNY.csv` subset to familiarize yourself with the original data and how it was manipulated. 
+2. The Documentation folder to view the Python notebook that details the step-by-step process of how the raw data was converted into the new Mississippi-New York specific subset. If you want to reacreate this process, this is where all the codes are. 
+3. Return to this landing page with a deepened understanding of the data when revisiting the graphs below. 
+
+***Where can users get get help with the repository?***
+- Email agebara@unc.edu with any questions. 
 
 ---
-## Acknowlegements
+## **Acknowlegements**
 
-Who maintains the repository? 
+***Who maintains the repository?*** 
+- This data repository was made and is maintained by Alicia Gebara, a B.S.P.H Healthcare Policy and Management candidate at the University of North Carolina Chapel Hill's Gillings School of Global Public Health.  
+- The original, raw data came from [CountyHealthData_2014-2015.csv](https://github.com/tarheel105/105-Unit-3/blob/main/data/CountyHealthData_2014-2015.csv), which was shown to Alicia by her English professor, Dr. Gotzler. 
 
 ---
-## Data visualization 
+
+
 
