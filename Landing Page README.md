@@ -15,7 +15,7 @@ This repository contains...
 
 - A Mississippi and New York specific subset of the raw data: [`MSandNY.csv`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Data/MSandNY.csv), also in the [Data folder](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main/Data). This data on aspects of sexual health, like teen births and rates of sexually transmitted infections (STIs), across Mississippi and New York in 2014-2015.
 
-- The Python notebook, titled: [`Feeder3_1_Alicia_Gebara`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Documentation/Feeder3_1_Alicia_Gebara.ipynb) in the "Process Documentation" folder, that documents the process for crafting the subset of data from the original data.
+- The Python notebook, titled: [`Feeder3_1_Alicia_Gebara`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Documentation/Feeder3_1_Alicia_Gebara.ipynb) in the [Documentation Folder](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main/Documentation), that documents the process for crafting the subset of data from the original data.
   
 ---
 ## **Potential Uses and Applications** 
