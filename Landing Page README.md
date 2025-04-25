@@ -79,4 +79,3 @@ In both Mississippi and New York's correlational dot graphs, it appears that tee
 **Mississippi**, *a state where sexual education is **not mandated in school*** has both, a **higher average number of teen births** per county and a **higher average of sexually transmitted infections** per county than **New York**, *a state where **sexual education is mandated in schools***. 
 
 While Mississippi's correlation between teen births and STIs seems visibly stronger than New York's, both states show that same positive association, potentially suggesting a **possible gap in sexual education or protective resources**. These findings could prompt future **sexual health research or health policy intervention**. 
-
