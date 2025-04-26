@@ -43,24 +43,24 @@ This repository contains...
 
 
 ***Who is this repository for?***
-- Public health scientists, health policymakers, or other individuals wishing to learn more about the difference in sexual health data across states in the US.  
+- Public health scientists, health policymakers, or other individuals wishing to learn more about the difference in sexual health data across states in the US. 
 
 --- 
 ## **Where to start** 
 
 ***How can users get started with the repository?***
 1. The [Data Folder](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main/Data) folder to view both the raw data, [`CountyHealthData_2014-2015.csv`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Data/CountyHealthData_2014-2015.csv) and the subset of the raw data, [`MSandNY.csv`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Data/MSandNY.csv), to familiarize yourself with the original data and how it was manipulated. 
-2. The [Documentation Folder](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main/Documentation) to view the Python notebook[`Feeder3_1_AliciaGebara`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Documentation/Feeder3_1_Alicia_Gebara.ipynb), that details the step-by-step process of how the raw data was converted into the new Mississippi-New York specific subset. If you want to reacreate this process, this is where all the codes are. 
+2. The [Documentation Folder](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main/Documentation) to view the Python notebook[`Feeder3_1_AliciaGebara`](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/blob/main/Documentation/Feeder3_1_Alicia_Gebara.ipynb), which details the step-by-step process of how the raw data was converted into the new Mississippi-New York specific subset. If you want to reacreate this process, this is where all the codes are. 
 3. Return to [this landing page](https://github.com/AliciaGebara/Sexual_Health_In_MS_and_NY/tree/main) with a deepened understanding of the data when revisiting the graphs below in the "data visualization section". 
 
-***Where can users get get help with the repository?***
+***Where can users get help with the repository?***
 - Email agebara@unc.edu with any questions. 
 
 ---
 ## **Acknowlegements**
 
 ***Who maintains the repository?*** 
-- This data repository was made and is maintained by Alicia Gebara. She is currently, a B.S.P.H in Healthcare Policy and Management candidate at the University of North Carolina Chapel Hill's Gillings School of Global Public Health.  
+- This data repository was made and is maintained by Alicia Gebara. She is currently a B.S.P.H in Healthcare Policy and Management candidate at the University of North Carolina at Chapel Hill's Gillings School of Global Public Health.  
 - The original, raw data came from [CountyHealthData_2014-2015.csv](https://github.com/tarheel105/105-Unit-3/blob/main/data/CountyHealthData_2014-2015.csv), which was shown to Alicia by her English professor, Dr. Gotzler. 
 
 ---
